@@ -7,7 +7,7 @@ logback = "1.5.18"
 lombok = "8.14"
 mockito = "5.18.0"
 okhttp = "5.1.0"
-reactor = "2024.0.7"
+reactor = "2024.0.8"
 slf4J = "2.0.17"
 
 [libraries]
